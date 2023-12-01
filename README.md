@@ -34,3 +34,8 @@ importing modules and using different import styles and their drawbacks
 Ending a program with the sys.exit() function
 
 
+## Chapter 03 - Function
+
+Function definition and understanding, explaining return values, variable scopes i.e global and local, the none keyword which is thr default value of a function that doesn't return anything.
+Try and Catch exceptions, reasons why it is useful and important.
+keyword arguments and parameters.
